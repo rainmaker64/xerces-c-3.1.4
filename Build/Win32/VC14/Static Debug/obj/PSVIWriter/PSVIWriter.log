@@ -1,4 +1,0 @@
-﻿  PSVIWriter.cpp
-  PSVIWriterHandlers.cpp
-PSVIWriter.obj : warning LNK4075: '/EDITANDCONTINUE'이(가) '/SAFESEH' 사양으로 인해 무시됩니다.
-  PSVIWriter.vcxproj -> C:\works\2. Project\anoto_git\newLibs\xerces-c-3.1.4\Build\Win32\VC14\Static Debug\PSVIWriter.exe

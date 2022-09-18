@@ -1,8 +1,0 @@
-﻿cl : 명령줄  warning D9035: 'Gm' 옵션은 더 이상 사용되지 않으므로 이후 릴리스에서 제거될 예정입니다.
-cl : 명령줄  warning D9030: '/Gm'이(가) 다중 처리와 호환되지 않습니다. /MP 스위치를 무시합니다.
-  XSTSHarnessHandlers.cpp
-  XSTSHarness.cpp
-  XMLHarnessHandlers.cpp
-  코드를 생성하고 있습니다...
-XMLHarnessHandlers.obj : warning LNK4075: '/EDITANDCONTINUE'이(가) '/SAFESEH' 사양으로 인해 무시됩니다.
-  XSTSHarness.vcxproj -> C:\works\2. Project\anoto_git\newLibs\xerces-c-3.1.4\Build\Win32\VC14\Static Debug\XSTSHarness.exe

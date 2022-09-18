@@ -1,5 +1,0 @@
-﻿  PSVIWriter.cpp
-  PSVIWriterHandlers.cpp
-C:\works\2. Project\anoto_git\newLibs\xerces-c-3.1.4\samples\src\PSVIWriter\PSVIWriterHandlers.cpp(1016,67): warning C4244: '인수': 'XMLSize_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\works\2. Project\anoto_git\newLibs\xerces-c-3.1.4\samples\src\PSVIWriter\PSVIWriterHandlers.cpp(1020,67): warning C4244: '인수': 'XMLSize_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-LINK : fatal error LNK1104: 'xerces-c_3D.lib' 파일을 열 수 없습니다.

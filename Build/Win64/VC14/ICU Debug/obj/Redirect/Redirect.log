@@ -1,3 +1,0 @@
-﻿  Redirect.cpp
-  RedirectHandlers.cpp
-LINK : fatal error LNK1104: 'xerces-c_3D.lib' 파일을 열 수 없습니다.
