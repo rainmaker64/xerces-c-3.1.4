@@ -1,0 +1,3 @@
+^C:\WORKS\2. PROJECT\ANOTO_GIT\NEWLIBS\XERCES-C-3.1.4\SRC\XERCESC\UTIL\XERCES_AUTOCONF_CONFIG.MSVC.HPP
+echo copy "C:\works\2. Project\anoto_git\newLibs\xerces-c-3.1.4\src\xercesc\util\Xerces_autoconf_config.msvc.hpp" "C:\works\2. Project\anoto_git\newLibs\xerces-c-3.1.4\src\xercesc\util\Xerces_autoconf_config.hpp"
+copy "C:\works\2. Project\anoto_git\newLibs\xerces-c-3.1.4\src\xercesc\util\Xerces_autoconf_config.msvc.hpp" "C:\works\2. Project\anoto_git\newLibs\xerces-c-3.1.4\src\xercesc\util\Xerces_autoconf_config.hpp"

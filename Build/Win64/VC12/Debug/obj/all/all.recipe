@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\works\2. Project\anoto_git\newLibs\xerces-c-3.1.4\Build\Win64\VC14\Debug\xerces-c_3_1D.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\works\2. Project\anoto_git\newLibs\xerces-c-3.1.4\Build\Win64\VC14\Debug\CreateDOMDocument.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\works\2. Project\anoto_git\newLibs\xerces-c-3.1.4\Build\Win64\VC14\Debug\DOMCount.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\works\2. Project\anoto_git\newLibs\xerces-c-3.1.4\Build\Win64\VC14\Debug\DOMMemTest.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\works\2. Project\anoto_git\newLibs\xerces-c-3.1.4\Build\Win64\VC14\Debug\DOMNormalizerTest.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\works\2. Project\anoto_git\newLibs\xerces-c-3.1.4\Build\Win64\VC14\Debug\DOMPrint.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\works\2. Project\anoto_git\newLibs\xerces-c-3.1.4\Build\Win64\VC14\Debug\DOMTest.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\works\2. Project\anoto_git\newLibs\xerces-c-3.1.4\Build\Win64\VC14\Debug\DOMTraversalTest.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\works\2. Project\anoto_git\newLibs\xerces-c-3.1.4\Build\Win64\VC14\Debug\DOMTypeInfoTest.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\works\2. Project\anoto_git\newLibs\xerces-c-3.1.4\Build\Win64\VC14\Debug\EncodingTest.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\works\2. Project\anoto_git\newLibs\xerces-c-3.1.4\Build\Win64\VC14\Debug\EnumVal.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\works\2. Project\anoto_git\newLibs\xerces-c-3.1.4\Build\Win64\VC14\Debug\InitTermTest.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\works\2. Project\anoto_git\newLibs\xerces-c-3.1.4\Build\Win64\VC14\Debug\MemHandlerTest.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\works\2. Project\anoto_git\newLibs\xerces-c-3.1.4\Build\Win64\VC14\Debug\MemParse.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\works\2. Project\anoto_git\newLibs\xerces-c-3.1.4\Build\Win64\VC14\Debug\PParse.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\works\2. Project\anoto_git\newLibs\xerces-c-3.1.4\Build\Win64\VC14\Debug\PSVIWriter.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\works\2. Project\anoto_git\newLibs\xerces-c-3.1.4\Build\Win64\VC14\Debug\RangeTest.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\works\2. Project\anoto_git\newLibs\xerces-c-3.1.4\Build\Win64\VC14\Debug\Redirect.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\works\2. Project\anoto_git\newLibs\xerces-c-3.1.4\Build\Win64\VC14\Debug\SAX2Count.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\works\2. Project\anoto_git\newLibs\xerces-c-3.1.4\Build\Win64\VC14\Debug\SAX2Print.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\works\2. Project\anoto_git\newLibs\xerces-c-3.1.4\Build\Win64\VC14\Debug\SAXCount.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\works\2. Project\anoto_git\newLibs\xerces-c-3.1.4\Build\Win64\VC14\Debug\SAXPrint.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\works\2. Project\anoto_git\newLibs\xerces-c-3.1.4\Build\Win64\VC14\Debug\SCMPrint.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\works\2. Project\anoto_git\newLibs\xerces-c-3.1.4\Build\Win64\VC14\Debug\SEnumVal.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\works\2. Project\anoto_git\newLibs\xerces-c-3.1.4\Build\Win64\VC14\Debug\StdInParse.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\works\2. Project\anoto_git\newLibs\xerces-c-3.1.4\Build\Win64\VC14\Debug\ThreadTest.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\works\2. Project\anoto_git\newLibs\xerces-c-3.1.4\Build\Win64\VC14\Debug\XInclude.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\works\2. Project\anoto_git\newLibs\xerces-c-3.1.4\Build\Win64\VC14\Debug\XSerializerTest.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\works\2. Project\anoto_git\newLibs\xerces-c-3.1.4\Build\Win64\VC14\Debug\XSValueTest.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\works\2. Project\anoto_git\newLibs\xerces-c-3.1.4\Build\Win64\VC12\Debug\all</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

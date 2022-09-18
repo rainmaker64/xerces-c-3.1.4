@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\works\2. Project\anoto_git\newLibs\xerces-c-3.1.4\Build\Win64\VC14\Debug\xerces-c_3_1D.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\works\2. Project\anoto_git\newLibs\xerces-c-3.1.4\Build\Win64\VC14\Debug\XSerializerTest.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
